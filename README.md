@@ -1,15 +1,15 @@
 # quanlydctt
 
-The Final Test for Class.
-Student ID: 19T1021308
-Name: Nguyen Huu Tuan Vy
+The Final Test for Class. <br>
+<b>Student ID:<b> 19T1021308 <br>
+<b>Name:<b> Nguyen Huu Tuan Vy <br>
 ## Some information
-  Language: [Dart](https://dart.dev/) ([Flutter](https://flutter.dev/))
-  PubDev in use:
-    - [Carousel_Pro](https://pub.dev/packages/carousel_pro)
-    - [HTTP](https://pub.dev/packages/http)
-    - [smooth_star_rating](https://pub.dev/packages/smooth_star_rating)
-  Data get from:
-    - [Mockapi.io](https://mockapi.io/)
+  Language: [Dart](https://dart.dev/) ([Flutter](https://flutter.dev/)) <br>
+  PubDev in use: <br>
+    - [Carousel_Pro](https://pub.dev/packages/carousel_pro) <br>
+    - [HTTP](https://pub.dev/packages/http) <br>
+    - [smooth_star_rating](https://pub.dev/packages/smooth_star_rating) <br>
+  Data get from: <br>
+    - [Mockapi.io](https://mockapi.io/) <br>
   
 
